@@ -7,11 +7,11 @@
 
 #### This repository contains:
 
-[`Conversational_AI_ChatBot.py`](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot/blob/main/Conversational_AI_ChatBot.py)  - A Python version of ChatBot
+[`Conversational_AI_ChatBot.py`]  - A Python version of ChatBot
 
-[`conversational-ai-chatbot.ipynb`](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot/blob/main/conversational-ai-chatbot.ipynb) - A Interactive Notebook version of ChatBot
+[`conversational-ai-chatbot.ipynb`] - A Interactive Notebook version of ChatBot
 
-[`requirements.txt`](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot/blob/main/requirements.txt)  - Explores Python libraries requirements to run the project
+[`requirements.txt`]  - Explores Python libraries requirements to run the project
 
 ### What is a chatbot?
 
@@ -29,6 +29,7 @@
 
 ### Intelligent AI chatbots
 >##### These bots respond to users' inputs after understanding the inputs, as humans do. These bots are trained with a Machine Learning Model on a large training dataset of human conversations. These bots are cognitive to match a human in conversing. Amazon's Alexa, Apple's Siri fall under this category. Further, most of these bots can make conversations based on the preceding chat texts (chat history). 
+
 
 
 
